@@ -1,0 +1,5 @@
+start
+261483812	
+{"result":true,"point":2}
+Attacked261483812
+234095677	

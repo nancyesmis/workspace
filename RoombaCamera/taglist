@@ -1,0 +1,63 @@
+0	Exception	Unknown	30
+1	Exception	Roomba1	30
+2	Object	Object3		37
+3	Object	Object4		50		
+4	Object	Object5		40	
+5	Object	Object6		40
+6	Object	Object7		40
+7	Object	Object8		40
+8	Object	Object9		40
+9	Object	Object10	40
+10	Object	Object11	40
+11	Exception	Roomba2	30
+12	Object	Object13	40
+13	Object	Object14	40
+14	Object	Object15	40
+15	Object	Object16	40
+16	Exception	Roomba3	30
+17	Object	Object18	40
+18	Object	Object19	40
+19	Object	Object20	40
+20	Object	Object21	40
+21	Object	Object22	40
+22	Object	Object23	40
+23	Object	Object24	40
+24	Action	VacuumThisRoom1
+25	Action	VacuumThisRoom2
+26	Exception	AvoidThisObject1
+27	Exception	AvoidThisObject2
+28	Action	Bring"items"here
+29	Location	Item1
+30	Location	Item2
+31	Location	Item3
+32	Action	AdditionalVacuum@ThisSpot1
+33	Action	AdditionalVacuum@ThisSpot2
+34	Action	SendThisTo"DestinationA"
+35	Location	"DestinationA"
+36	Action	SendThisTo"DestinationB"
+37	Location	"DestinationB"
+38	Action	SendThisTo"Stations"
+39	Location	Station1
+40	Location	Station2
+41	Location	Station3
+60	Order	DoThisFirst
+61	Order	DoThisSecond
+62	Order	DoThisThird
+63	Order	DoThisFourth
+72	Action	MemorizeThisSetOfTasksForFutureReuse
+74	Action	MemorizedSetOfTask74
+75	Action	MemorizedSetOfTask75
+76	Action	MemorizedSetOfTask76
+77	Action	MemorizedSetOfTask77
+78	Action	MemorizedSetOfTask78
+79	Action	MemorizedSetOfTask79
+80	Action	MemorizedSetOfTask80
+81	Action	MemorizedSetOfTask81
+82	Action	MemorizedSetOfTask82
+83	Action	MemorizedSetOfTask83
+84	Action	MemorizedSetOfTask84
+85	Action	MemorizedSetOfTask85
+86	Action	MemorizedSetOfTask86
+87	Action	MemorizedSetOfTask87
+88	Action	MemorizedSetOfTask88
+89	Action	MemorizedSetOfTask89

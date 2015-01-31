@@ -1,0 +1,303 @@
+<results>
+    <totalresults>10</totalresults>
+    <result id="0">
+        <title>Moveable interactive projected displays using projector based tracking</title>
+        <pdf>http://www.cs.cmu.edu/~johnny/academic/p104-lee.pdf</pdf>
+        <author>JC Lee, SE Hudson, JW Summet, PH Dietz</author>
+        <proceeding>Proceedings of the 18th annual ACM symposium on ..., </proceeding>
+        <year>2005</year>
+        <abstract>... Johnny C. Lee 1,2 , Scott E. Hudson 1 ... 5000 Forbes Ave, Pittsburgh, PA 15213 {johnny, scott.hudson ... not specifically mention use with a projector, it describes an ...</abstract>
+        <citedBy>
+            <totalcitations>10</totalcitations>
+            <citation id="0">
+                <cite_title>Exiting the cleanroom: On ecological validity and ubiquitous computing</cite_title>
+                <cite_pdf>http://www.cs.cmu.edu/~assist/publications/07CarteretalHCIUbicompEval.pdf</cite_pdf>
+                <cite_author>S Carter, J Mankoff, SR Klemmer, T Matthews</cite_author>
+                <cite_proceeding>Human-Computer Interaction, </cite_proceeding>
+                <cite_year>2008</cite_year>
+                <cite_abstract>Scott Carter isaresearchscientistatFXPaloAltoLaboratory;hisworkfocuseson tool support for early-stage experimentation with ubiquitous computing applica-</cite_abstract>
+            </citation>
+            <citation id="1">
+                <cite_title>Prakash: lighting aware motion capture using photosensing markers and multiplexed ...</cite_title>
+                <cite_pdf>http://doclib.uhasselt.be/dspace/bitstream/1942/8058/1/3255.pdf</cite_pdf>
+                <cite_author>R Raskar, H Nii, B DE DECKER, Y Hashimoto, J ...</cite_author>
+                <cite_proceeding>ACM Transactions on Graphics, </cite_proceeding>
+                <cite_year>2007</cite_year>
+                <cite_abstract>Page 1. Prakash: Lighting Aware Motion Capture using Photosensing Markers and Multiplexed Illuminators Ramesh Raskar lowast; Hideaki Nii &amp;amp;dagger; Bert deDecker /0 Yuki Hashimoto &amp;amp;Dagger; Jay Summet &amp;amp;sect; Dylan Moore &amp;amp;#x266D; ...</cite_abstract>
+            </citation>
+            <citation id="2">
+                <cite_title>Content adaptive embedding of complementary patterns for nonintrusive direct-projected ...</cite_title>
+                <cite_pdf>http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.125.2970&amp;amp;rep=rep1&amp;amp;type=pdf</cite_pdf>
+                <cite_author>H Park, MH Lee, BK Seo, Y Jin, JI Park</cite_author>
+                <cite_proceeding>LECTURE NOTES IN COMPUTER SCIENCE, </cite_proceeding>
+                <cite_year>2007</cite_year>
+                <cite_abstract>Abstract. In direct-projected augmented reality, the visual patterns for compen- sation may distract users despite users would not be interested in the compensa-</cite_abstract>
+            </citation>
+            <citation id="3">
+                <cite_title>Supporting multiple off-axis viewpoints at a tabletop display</cite_title>
+                <cite_pdf>http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.125.2970&amp;amp;rep=rep1&amp;amp;type=pdf</cite_pdf>
+                <cite_author>M Hancock, S Carpendale</cite_author>
+                <cite_proceeding>... Interactive Human-Computer Systems, 2007. TABLETOP ..., </cite_proceeding>
+                <cite_year>2007</cite_year>
+                <cite_abstract>A growing body of research is investigating the use of tabletop displays, in particular to support collaborative work. People often interact directly with</cite_abstract>
+            </citation>
+            <citation id="4">
+                <cite_title>Hybrid infrared and visible light projection for location tracking</cite_title>
+                <cite_pdf>http://www.merl.com/papers/docs/TR2007-109.pdf</cite_pdf>
+                <cite_author>J Lee, S Hudson, P Dietz</cite_author>
+                <cite_proceeding>Proceedings of the 20th annual ACM symposium on ..., </cite_proceeding>
+                <cite_year>2007</cite_year>
+                <cite_abstract>ABSTRACT A number of projects within the computer graphics, computer vision, and human-computer interaction communities have recognized the value of using</cite_abstract>
+            </citation>
+            <citation id="5">
+                <cite_title>Spilling: Expanding Hand held Interaction to Touch Table Displays</cite_title>
+                <cite_pdf>http://icie.cs.byu.edu/paperPDFs/TableTopSpilling.pdf</cite_pdf>
+                <cite_author>DR Olsen, J Clement, A Pace</cite_author>
+                <cite_proceeding>... Interactive Human-Computer Systems, 2007. TABLETOP ..., </cite_proceeding>
+                <cite_year>2007</cite_year>
+                <cite_abstract>We envision a nomadic model of interaction where the personal computer fits in your pocket. Such a computer is extremely limited in screen space. A technique</cite_abstract>
+            </citation>
+            <citation id="6">
+                <cite_title>Cooperative Augmentation of Smart Objects with Projector-Camera Systems</cite_title>
+                <cite_pdf>http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.64.9216&amp;amp;rep=rep1&amp;amp;type=pdf</cite_pdf>
+                <cite_author>D Molyneaux, H Gellersen, G Kortuem, B ...</cite_author>
+                <cite_proceeding>Lecture Notes in Computer Science, </cite_proceeding>
+                <cite_year>2007</cite_year>
+                <cite_abstract>Abstract. In this paper we present a new approach for cooperation between mobile smart objects and projector-camera systems to enable augmentation of the surface</cite_abstract>
+            </citation>
+            <citation id="7">
+                <cite_title>Computer Vision approaches to solve the screen pose acquisition problem for Perspective ...</cite_title>
+                <cite_pdf>http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.64.9216&amp;amp;rep=rep1&amp;amp;type=pdf</cite_pdf>
+                <cite_author>M Nacenta</cite_author>
+                <cite_abstract>ABSTRACT PespectiveCursor is a new interaction technique for multi- display environments that significantly improves human interaction with computer</cite_abstract>
+            </citation>
+            <citation id="8">
+                <cite_title>Capturing Images with Sparse Informational Pixels using Projected 3D Tags</cite_title>
+                <cite_pdf>http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.116.4915&amp;amp;rep=rep1&amp;amp;type=pdf</cite_pdf>
+                <cite_author>L Zhang, N Subramaniam, R Lin, R Raskar, S ...</cite_author>
+                <cite_abstract>A BSTRACT In this paper, we propose a novel imaging system that enables the capture of photos and videos with sparse informational pixels. Our system is</cite_abstract>
+            </citation>
+            <citation id="9">
+                <cite_title>Projector-based location discovery and tracking</cite_title>
+                <cite_pdf>http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.116.4915&amp;amp;rep=rep1&amp;amp;type=pdf</cite_pdf>
+                <cite_author>JC Lee</cite_author>
+                <cite_abstract>Johnny Chung Lee May 2008 CMU-HCII-08-102 ... Human Computer Interaction Institute School of Computer Science Carnegie Mellon University Pittsburgh, PA</cite_abstract>
+            </citation>
+        </citedBy>
+    </result>
+    <result id="1">
+        <title>Hybrid infrared and visible light projection for location tracking</title>
+        <pdf>http://www.merl.com/papers/docs/TR2007-109.pdf</pdf>
+        <author>J Lee, S Hudson, P Dietz</author>
+        <proceeding>Proceedings of the 20th annual ACM symposium on ..., </proceeding>
+        <year>2007</year>
+        <abstract>... 5000 Forbes Ave, Pittsburgh, PA 15213 {johnny,scott.hudson ... Press,pp.243-278 3. Lee, J., Hudson ... 5. Pinhanez, C. &amp;amp;ldquo;The Everywhere Displays Projector: A Device to ...</abstract>
+        <citedBy>
+            <totalcitations>2</totalcitations>
+            <citation id="0">
+                <cite_title>Computational Support for Sketching in Design: A Review</cite_title>
+                <cite_author>G Johnson, MD Gross, J Hong, E Yi-Luen Do</cite_author>
+                <cite_proceeding>Foundations and Trends&amp;amp;reg; in Human&amp;amp;ndash;Computer ..., </cite_proceeding>
+                <cite_year>2007</cite_year>
+                <cite_abstract>Foundations and Trends R in Human&amp;amp;ndash;Computer Interaction Vol. 2, No. 1 (2008) 1&amp;amp;ndash;93 c 2009 G. Johnson, MD Gross, J. Hong and E. Yi-Luen Do DOI:</cite_abstract>
+            </citation>
+            <citation id="1">
+                <cite_title>Foldable interactive displays</cite_title>
+                <cite_pdf>http://srl.csdl.tamu.edu/courses/CHI2009/papers/uist08/UIST08_34_Lee.pdf</cite_pdf>
+                <cite_author>JC Lee, SE Hudson, E Tse</cite_author>
+                <cite_proceeding>Proceedings of the 21st annual ACM symposium on User ..., </cite_proceeding>
+                <cite_year>2008</cite_year>
+                <cite_abstract>ABSTRACT Modern computer displays tend to be in fixed size, rigid, and rectilinear rendering them insensitive to the visual area demands of an</cite_abstract>
+            </citation>
+        </citedBy>
+    </result>
+    <result id="2">
+        <title>Projector-based location discovery and tracking</title>
+        <pdf>http://www.merl.com/papers/docs/TR2007-109.pdf</pdf>
+        <author>JC Lee</author>
+        <abstract>... Copyright &amp;amp;copy; 2008 Johnny Chung Lee. All rights reserved. ... In the first prototype implementation of projector-based location discovery [Lee, ...</abstract>
+        <citedBy>
+            <totalcitations>1</totalcitations>
+            <citation id="0">
+                <cite_title>Computational Support for Sketching in Design: A Review</cite_title>
+                <cite_author>G Johnson, MD Gross, J Hong, E Yi-Luen Do</cite_author>
+                <cite_proceeding>Foundations and Trends&amp;reg; in Human&amp;ndash;Computer ..., </cite_proceeding>
+                <cite_year>2007</cite_year>
+                <cite_abstract>Foundations and Trends R in Human&amp;ndash;Computer Interaction Vol. 2, No. 1 (2008) 1&amp;ndash;93 c 2009 G. Johnson, MD Gross, J. Hong and E. Yi-Luen Do DOI:</cite_abstract>
+            </citation>
+        </citedBy>
+    </result>
+    <result id="3">
+        <title>Foldable interactive displays</title>
+        <pdf>http://srl.csdl.tamu.edu/courses/CHI2009/papers/uist08/UIST08_34_Lee.pdf</pdf>
+        <author>JC Lee, SE Hudson, E Tse</author>
+        <proceeding>Proceedings of the 21st annual ACM symposium on User ..., </proceeding>
+        <year>2008</year>
+        <abstract>... Johnny Chung Lee, Scott E. Hudson Human-Computer ... Ave., Pittsburgh, PA 15213 {johnny, scott.hudson ... However, projector-based tracking would allow many cursors to ...</abstract>
+    </result>
+    <result id="4">
+        <title>SenseableRays: opto-haptic substitution for touch-enhanced interactive spaces</title>
+        <pdf>http://srl.csdl.tamu.edu/courses/CHI2009/papers/uist08/UIST08_34_Lee.pdf</pdf>
+        <author>J Rekimoto</author>
+        <proceeding>Proceedings of the 27th international conference ..., </proceeding>
+        <year>2009</year>
+        <abstract>... 7. John Galeotti, Samantha Horvath, Roberta Klatzky, Brock ... 14. J.Lee, S.Hudson, J.Summet, and P ... Interactive Projected Displays Using Projector Based Tracking, ACM ...</abstract>
+    </result>
+    <result id="5">
+        <title>A wall-sized focus plus context display</title>
+        <pdf>http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.94.3211&amp;amp;rep=rep1&amp;amp;type=pdf</pdf>
+        <author>S Boring, O Hilliges, A Butz</author>
+        <proceeding>... Computing and Communications, 2007. PerCom&amp;amp;#39;07. ..., </proceeding>
+        <year>2007</year>
+        <abstract>... multi- ple screens or having a projector to increase ... bet- ter suited to the particular interaction situation [5 ... by Igarashi&amp;amp;#39;s work on sketch-based interfaces [11 ...</abstract>
+        <citedBy>
+            <totalcitations>6</totalcitations>
+            <citation id="0">
+                <cite_title>The living-room: browsing, organizing and presenting digital image collections in ...</cite_title>
+                <cite_author>O Hilliges, M Wagner, L Terrenghi, A Butz</cite_author>
+                <cite_abstract>We present the Living-Room, an interactive application for browsing, organizing and sharing digital photos. The appli- cation runs in an instrumented</cite_abstract>
+            </citation>
+            <citation id="1">
+                <cite_title>Personal Data</cite_title>
+                <cite_author>W during Studies, S Work, W Abroad</cite_author>
+                <cite_abstract>Page 1. Personal Data Dr. Andreas Butz Bruderhofstra&amp;szlig;e 20 81371 M&amp;uuml;nchen Tel. +49-089-7230-1617 Currently Professor (C3) at Ludwig-Maximilians-Universit&amp;auml;t LFE Medieninformatik Amalienstra&amp;szlig;e 17 80333 M&amp;uuml;nchen Tel. +49-089-2180-4665 ...</cite_abstract>
+            </citation>
+            <citation id="2">
+                <cite_title>Interaction Design and Information Visualization for Wall-Size Displays with User Tracking</cite_title>
+                <cite_author>TR Sidor</cite_author>
+                <cite_abstract>Thomas Ren&amp;eacute; Sidor Department of Computer Science University of Copenhagen mail@thomassidor.com ... Advisor: Kasper Hornb&amp;aelig;k Department of Computer</cite_abstract>
+            </citation>
+            <citation id="3">
+                <cite_title>Focus and Context Displays</cite_title>
+                <cite_author>N Burdin</cite_author>
+                <cite_proceeding>Focus, </cite_proceeding>
+                <cite_year>2007</cite_year>
+                <cite_abstract>ABSTRACT In dieser Ausarbeitung werden Forschungsarbeiten vorge- stellt, die sich mit Fragestellungen bezuglich der adaquaten Darstellung von gro&amp;szlig;en</cite_abstract>
+            </citation>
+            <citation id="4">
+                <cite_title>Multi-Touch-Systeme und interaktive Oberfl&amp;auml;chen</cite_title>
+                <cite_author>J Tr&amp;uuml;mper</cite_author>
+                <cite_abstract>1. INTRODUCTION Multi-Touch-Systeme sind Interaktionssysteme, die es er- lauben, dass ein oder mehrere Benutzer auf einer beruhrungs- empfindlichen Oberfl&amp;auml;he</cite_abstract>
+            </citation>
+            <citation id="5">
+                <cite_title>Java Settlers Intelligente agentenbasierte Spielsysteme f&amp;uuml;r intuitive Multi-Touch- ...</cite_title>
+                <cite_author>M Wang</cite_author>
+                <cite_abstract>Computersysteme sind heutzutage kaum wegzudenken und weisen intelligente Algorithmen zur L&amp;ouml;sung komplexer Probleme vor. Besonders in der</cite_abstract>
+            </citation>
+        </citedBy>
+    </result>
+    <result id="6">
+        <title>Leveraging Graphics Hardware for Vision Based Human Computer Interaction</title>
+        <pdf>http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.94.3211&amp;amp;rep=rep1&amp;amp;type=pdf</pdf>
+        <author>S Olsen</author>
+        <abstract>... David Lee, Kim McCall, Elin Pedersen, Ken Pier, John Tang, and Brent Welch. Live- ... A low-cost projector mosaic with fast registra- tion. ...</abstract>
+    </result>
+    <result id="7">
+        <title>Large interactive surfaces based on digital pens</title>
+        <pdf>http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.94.3211&amp;amp;rep=rep1&amp;amp;type=pdf</pdf>
+        <author>M Haller, P Brandl, D Leithinger, J Leitner, T ...</author>
+        <proceeding>10th Interantional Conference on Humans and ..., </proceeding>
+        <year>2007</year>
+        <abstract>... Thus, no spotlights from the projectors are visible at ... Goldberg, Frank Halasz, William Janssen, David Lee, Kim Mc ... Call, Elin Pedersen, Ken Pier, John Tang, and ...</abstract>
+        <citedBy>
+            <totalcitations>2</totalcitations>
+            <citation id="0">
+                <cite_title>Peter Brandl, Christoph Richter, Jakob Leitner, Thomas Seifried, Adam Gokcezade, Daniel ...</cite_title>
+                <cite_author>M Haller</cite_author>
+                <cite_abstract>Until recently, the limitations of display and interface technologies have re- stricted the potential for human interaction and collaboration with comput- ers.</cite_abstract>
+            </citation>
+            <citation id="1">
+                <cite_title>Nicht-klickbare Bedienoberfl&amp;auml;che f&amp;uuml;r stiftbasierte Interaktion</cite_title>
+                <cite_author>C Oster, D Medien</cite_author>
+                <cite_abstract>Hiermit erkl&amp;auml;re ich an Eides statt, dass ich die vorliegende Arbeit selbst- st&amp;auml;ndig und ohne fremde Hilfe verfasst, andere als die angegebenen Quellen und</cite_abstract>
+            </citation>
+        </citedBy>
+    </result>
+    <result id="8">
+        <title>Input Technologies and Techniques Ken Hinckley Microsoft Research One Microsoft Way ...</title>
+        <pdf>http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.94.3211&amp;amp;rep=rep1&amp;amp;type=pdf</pdf>
+        <author>A Sears, J Jacko</author>
+        <abstract>... The design of input devices and interaction techniques can help to ... keystroke-level model (John &amp;amp;amp; Kieras, 1996). ... See also Chapter 58, Model-based Evaluations; ...</abstract>
+    </result>
+    <result id="9">
+        <title>An adaptable rear-projection screen using digital pens and hand gestures</title>
+        <pdf>http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.94.3211&amp;amp;rep=rep1&amp;amp;type=pdf</pdf>
+        <author>P Brandl, M Haller, M Hurnaus, V Lugmayr, J ...</author>
+        <proceeding>IEEE ICAT, </proceeding>
+        <year>2007</year>
+        <abstract>... light and the lights coming from the projectors (placed in ... Frank Halasz, William Janssen, David Lee, Kim McCall, Elin Pedersen, Ken Pier, John Tang, and ...</abstract>
+        <citedBy>
+            <totalcitations>10</totalcitations>
+            <citation id="0">
+                <cite_title>Bridging the gap between real printouts and digital whiteboard</cite_title>
+                <cite_pdf>http://cs-one.com/publications/Bridging%20the%20Gap%20Between%20Real%20Printouts%20and%20Digital%20Whiteboard.pdf</cite_pdf>
+                <cite_author>P Brandl, M Haller, J Oberngruber, C ...</cite_author>
+                <cite_proceeding>Proceedings of the working conference on Advanced ..., </cite_proceeding>
+                <cite_year>2008</cite_year>
+                <cite_abstract>In this paper, we describe a paper-based interface, which combines the physical (real) with the digital world: while interacting with real paper printouts,</cite_abstract>
+            </citation>
+            <citation id="1">
+                <cite_title>Peter Brandl, Christoph Richter, Jakob Leitner, Thomas Seifried, Adam Gokcezade, Daniel ...</cite_title>
+                <cite_pdf>http://cs-one.com/publications/Bridging%20the%20Gap%20Between%20Real%20Printouts%20and%20Digital%20Whiteboard.pdf</cite_pdf>
+                <cite_author>M Haller</cite_author>
+                <cite_abstract>Until recently, the limitations of display and interface technologies have re- stricted the potential for human interaction and collaboration with comput- ers.</cite_abstract>
+            </citation>
+            <citation id="2">
+                <cite_title>Bridging the gap between real and virtual objects for tabletop games</cite_title>
+                <cite_pdf>http://cs-one.com/publications/Bridging%20the%20Gap%20Between%20Real%20Printouts%20and%20Digital%20Whiteboard.pdf</cite_pdf>
+                <cite_author>J Leitner, C K&amp;ouml;ffel, M Haller</cite_author>
+                <cite_abstract>Abstract&amp;mdash; In this paper, we present a collaborative tabletop game which combines both the real and virtual world. The main motivation for this game was</cite_abstract>
+            </citation>
+            <citation id="3">
+                <cite_title>FLUX&amp;amp;ndash;A Tilting Multi-Touch and</cite_title>
+                <cite_pdf>http://cs-one.com/publications/Bridging%20the%20Gap%20Between%20Real%20Printouts%20and%20Digital%20Whiteboard.pdf</cite_pdf>
+                <cite_author>PB Surface</cite_author>
+                <cite_abstract>Abstract FLUX is an interactive touch-sensitive tilting surface that can be used either as a sketching board, as an interactive discussion table, and as a</cite_abstract>
+            </citation>
+            <citation id="4">
+                <cite_title>Designing pen-and-paper user interfaces for interaction with documents</cite_title>
+                <cite_pdf>http://cs-one.com/publications/Bridging%20the%20Gap%20Between%20Real%20Printouts%20and%20Digital%20Whiteboard.pdf</cite_pdf>
+                <cite_author>J Steimle</cite_author>
+                <cite_proceeding>Proceedings of the 3rd International Conference on ..., </cite_proceeding>
+                <cite_year>2009</cite_year>
+                <cite_abstract>ABSTRACT Despite numerous predictions of the paperless office, know- ledge work is still characterized by the combined use of paper and digital documents.</cite_abstract>
+            </citation>
+            <citation id="5">
+                <cite_title>IncreTable, a mixed reality tabletop game experience</cite_title>
+                <cite_pdf>http://mi-lab.org/wp-content/blogs.dir/1/files/publications2008/IncreTable.pdf</cite_pdf>
+                <cite_author>J Leitner, M Haller, K Yun, W Woo, M ...</cite_author>
+                <cite_proceeding>Proceedings of the 2008 International Conference in ..., </cite_proceeding>
+                <cite_year>2008</cite_year>
+                <cite_abstract>IncreTable is a mixed reality tabletop game inspired by The Incredible Machine. Users can combine real and virtual game pieces in order to solve puzzles in the</cite_abstract>
+            </citation>
+            <citation id="6">
+                <cite_title>Flux: a tilting multi-touch and pen based surface</cite_title>
+                <cite_pdf>http://mi-lab.org/wp-content/blogs.dir/1/files/publications2008/IncreTable.pdf</cite_pdf>
+                <cite_author>J Leitner, J Powell, P Brandl, T Seifried, M ...</cite_author>
+                <cite_proceeding>Proceedings of the 27th international conference ..., </cite_proceeding>
+                <cite_year>2009</cite_year>
+                <cite_abstract>Abstract FLUX is an interactive touch-sensitive tilting surface that can be used either as a sketching board, as an interactive discussion table, and as a</cite_abstract>
+            </citation>
+            <citation id="7">
+                <cite_title>Mixed Reality Entertainment and Art</cite_title>
+                <cite_pdf>http://mi-lab.org/wp-content/blogs.dir/1/files/publications2008/IncreTable.pdf</cite_pdf>
+                <cite_author>AD Cheok, M Haller, ONN Fernando, JP ...</cite_author>
+                <cite_abstract>Abstract&amp;mdash; Social and physical interactions are new paradigms that outline the vision of the next generation of entertainment. We can provide these</cite_abstract>
+            </citation>
+            <citation id="8">
+                <cite_title>Occlusion-aware menu design for digital tabletops</cite_title>
+                <cite_pdf>http://mi-lab.org/wp-content/blogs.dir/1/files/publications2008/IncreTable.pdf</cite_pdf>
+                <cite_author>P Brandl, J Leitner, T Seifried, M Haller, B ...</cite_author>
+                <cite_proceeding>Proceedings of the 27th international conference ..., </cite_proceeding>
+                <cite_year>2009</cite_year>
+                <cite_abstract>Abstract In this paper, we describe the design of menus for multi-user digital tabletops. On direct input surfaces, occlusions created by the user&amp;rsquo;s hand</cite_abstract>
+            </citation>
+            <citation id="9">
+                <cite_title>Nicht-klickbare Bedienoberfl&amp;auml;che f&amp;uuml;r stiftbasierte Interaktion</cite_title>
+                <cite_pdf>http://mi-lab.org/wp-content/blogs.dir/1/files/publications2008/IncreTable.pdf</cite_pdf>
+                <cite_author>C Oster, D Medien</cite_author>
+                <cite_abstract>Hiermit erkl&amp;auml;re ich an Eides statt, dass ich die vorliegende Arbeit selbst- st&amp;auml;ndig und ohne fremde Hilfe verfasst, andere als die angegebenen Quellen und</cite_abstract>
+            </citation>
+        </citedBy>
+    </result>
+</results>

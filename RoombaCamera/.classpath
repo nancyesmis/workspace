@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="D:/workspace/RoombaCamera/comm.jar"/>
+	<classpathentry kind="lib" path="H:/重装/nus/irobot/Code and Resource/Code/MagicCard_video_V1206_2008/RXTXcomm.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>

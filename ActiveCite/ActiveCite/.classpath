@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry path="" kind="src"/>
+	<classpathentry path="org.eclipse.jdt.launching.JRE_CONTAINER" kind="con"/>
+	<classpathentry path="D:/liquidlnf.jar" kind="lib"/>
+	<classpathentry path="D:/liquidlnftest.jar" kind="lib"/>
+	<classpathentry path="D:/mysql-connector-java-5.0.8/mysql-connector-java-5.0.8/mysql-connector-java-5.0.8-bin.jar" kind="lib"/>
+	<classpathentry path="D:/jdom.jar" kind="lib"/>
+	<classpathentry path="D:/WebService Code/activecite/webserviceclient.jar" kind="lib"/>
+	<classpathentry path="" kind="output"/>
+</classpath>
